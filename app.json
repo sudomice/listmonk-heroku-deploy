@@ -20,11 +20,12 @@
     "ROOT_URL": {
       "description": "URL of the installation",
       "required": true,
-      "value": "https://yourlistmonk.herokuapp.com"
+      "value": "https://swaraj-listmonk.herokuapp.com"
     },
     "LISTMONK_APP__ADMIN_USERNAME": {
       "description": "Admin username",
-      "required": true
+      "required": true,
+      "value": "ADMIN"
     },
     "LISTMONK_APP__ADMIN_PASSWORD": {
       "description": "Admin password",
